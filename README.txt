@@ -1,0 +1,1 @@
+This is my WCF basics repo containing simply examples of individual WCF features
