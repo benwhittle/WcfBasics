@@ -46,7 +46,9 @@
     <Compile Include="DuplexService.cs" />
     <Compile Include="IDuplexService.cs" />
     <Compile Include="IDuplexServiceCallback.cs" />
+    <Compile Include="IMaths.cs" />
     <Compile Include="ISimpleService.cs" />
+    <Compile Include="Maths.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SimpleService.cs" />
   </ItemGroup>
